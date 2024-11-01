@@ -1,4 +1,6 @@
 # RAG Implementation with LangChain and Hugging Face
+### Credit 
+Akriti Upadhyay https://medium.com/@akriti.upadhyay/implementing-rag-with-langchain-and-hugging-face-28e3ea66c5f7
 
 This project demonstrates the implementation of a **Retrieval-Augmented Generation (RAG)** model using LangChain and Hugging Face libraries. RAG combines document retrieval with a sequence-to-sequence model to generate answers based on retrieved documents. This implementation leverages pretrained dense retrieval models and language models to perform text embeddings, document chunking, and answer generation.
 
